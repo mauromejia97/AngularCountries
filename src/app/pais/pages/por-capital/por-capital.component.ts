@@ -10,7 +10,7 @@ import { PaisService } from '../../services/pais.service';
 })
 export class PorCapitalComponent {
 
-
+  buscarCapital:string = "Buscar capital"
   termino: string = "";
   hayError: boolean = false;
   capital: Country[] = []
