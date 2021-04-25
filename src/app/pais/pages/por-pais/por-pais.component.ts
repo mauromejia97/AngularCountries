@@ -50,5 +50,4 @@ export class PorPaisComponent {
 
     this.buscar(termino);
   }
-
 }
